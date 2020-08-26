@@ -14,7 +14,7 @@ To create visualizations of rideshare data for PyBer to help improve access to r
 
 Rural Pyber users on average should expect to pay more for rides. Cities by nature have higher populations, leading to a bigger driver pool and allowing Pyber users to get lower fares. 
 
-![Challenge_fare_summary.png](Challenge_fare_summary.png)
+![analysis/Challenge_fare_summary.png](analysis/Challenge_fare_summary.png)
 
 The more urban areas were by far the biggest generators of fares for Pyber.
 
